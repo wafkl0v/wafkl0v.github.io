@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "OSX 사용 중 각종 설정들"
+date:   2015-11-07 21:42:17 +0900
+categories:
+---
+테스트 포스트를 올려보자
